@@ -1,7 +1,7 @@
 # MUSAR
+[//]: # (<a href="https://arxiv.org/abs/2411.15098"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a>)
 ![Teaser](https://github.com/user-attachments/assets/69612922-7046-41b6-9f89-6c56c736ece7)
 
-[//]: # (<a href="https://arxiv.org/abs/2411.15098"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a>)
 <a href="https://huggingface.co/datasets/guozinan/MUSAR-Gen"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 > **MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**
 > <br>
