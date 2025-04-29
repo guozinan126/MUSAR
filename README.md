@@ -11,7 +11,7 @@
 > Songtao Zhao,
 > Qian He
 > <br>
-> (✝Corresponding Author) <br>
+> (✝ Corresponding Author) <br>
 > Bytedance Intelligent Creation
 > <br>
 
