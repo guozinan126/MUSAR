@@ -1,6 +1,5 @@
 # MUSAR
-[//]: # (<a href="https://arxiv.org/abs/2411.15098"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a>)
-
+<a href="https://arxiv.org/abs/2505.02823"><img src="https://img.shields.io/badge/ariXv-2411.15098-A42C25.svg" alt="arXiv"></a>
 <a href="https://huggingface.co/datasets/guozinan/MUSAR-Gen"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
 > **MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing**
 > <br>
@@ -39,3 +38,14 @@ Construction details: The condition images are two subjects randomly selected fr
   | `cond_prompt_0`      | `str`   | Textual description of the corresponding subject in cond_img_0. |
   | `cond_prompt_1`      | `str`   | Textual description of the corresponding subject in cond_img_0. |
   | `prompt`             | `str`   | Textual description of the tgt_img content.                     |
+
+## Citation
+If you find this paper useful for your research or use MUSAR-Gen dataset, please consider citing our paper:
+```
+@article{guo2025musar,
+  title={MUSAR: Exploring Multi-Subject Customization from Single-Subject Dataset via Attention Routing},
+  author={Guo, Zinan and Zhang, Pengze and Wu, Yanze and Mou, Chong and Zhao, Songtao and He, Qian},
+  journal={arXiv preprint arXiv:2505.02823},
+  year={2025}
+}
+```
